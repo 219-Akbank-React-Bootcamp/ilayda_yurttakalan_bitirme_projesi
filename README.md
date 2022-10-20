@@ -1,1 +1,1 @@
-# ilayda_yurttakalan_bittirme_projesi
+# ilayda_yurttakalan_bitirme_projesi

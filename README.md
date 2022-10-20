@@ -11,6 +11,9 @@ Birden fazla Kanban board oluşturup içlerine her statü için farklı listeler
 
 Başlamak için uygulamaya üye ol ve ilk iş akışı için Board'unu oluştur!
 
+
+### [Deneme Link!](http://34.125.157.205/)
+
 ## Kullanılan Teknolojiler
 
 - JavaScript
